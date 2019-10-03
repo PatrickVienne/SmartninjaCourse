@@ -1,0 +1,9 @@
+.farbe-lila {
+    background-color: skyblue;
+    height: 100px;
+    width: 200px;
+    border-bottom: brown;
+    border-style: dashed;
+    padding: 10px;
+    margin: auto;
+}
